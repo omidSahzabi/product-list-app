@@ -1,8 +1,22 @@
-# React + Vite
+# Product list app
+this one page responsive app is created with vite + react and **bootstrap** for styles!
+## Features : 
+- filtering
+- sorting
+- data fetched from api
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## starting :
+1. clone this repo:
+***Terminal
+   git clone https://github.com/omidSahzabi/product-list-app.git
+   ***
+2. install dependencies :
+   ***Terminal
+   npm i
+   ***
+3. and run it in your local host:
+   ***npm
+   npm run dev
+   ***
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   [checkout the live project here!](https://omidsahzabi.github.io/product-list-app/)
