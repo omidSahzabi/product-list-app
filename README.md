@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-#Product list app
-this app is created using vite + react and ..bootstrap.. for styles!
-=======
 # Product list app
 ![project view]()
 this one page responsive app is created with vite + react and **bootstrap** for styles!
