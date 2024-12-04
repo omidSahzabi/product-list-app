@@ -1,5 +1,9 @@
 # Product list app
 ![project view](https://github.com/omidSahzabi/product-list-app/blob/master/src/assets/Untitled2.png)
+
+**in phones** : 
+![project view](https://github.com/omidSahzabi/product-list-app/blob/master/src/assets/Untitled.png)
+
 this one page responsive app is created with vite + react and **bootstrap** for styles!
 ## Features : 
 - filtering
